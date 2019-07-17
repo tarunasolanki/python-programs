@@ -1,4 +1,3 @@
-#
 #Program to print star pattern 
 #    *
 #   **
