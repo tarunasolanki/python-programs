@@ -1,0 +1,13 @@
+#
+#Program to print star pattern 
+#    *
+#   **
+#  ***
+# ****
+#*****
+for i in range(1,6):
+    for j in range (i,i,-1):
+        print(" ",end="")
+    for k in range (1,i,1):
+        print("*",end="")
+    print("")
